@@ -25,5 +25,5 @@ printf("%d\n",i);
 count++;
 }
 }
-printf(t);
+printf("%d",t);
 }
